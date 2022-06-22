@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(235, 220, 201);
+}
+
+.photo{
+    margin-bottom: 15px;
+    border-radius: 20%;
+    width: 15%;
+    height: 15%;
+}
+.photoII{
+    margin-bottom: 15px;
+    margin-left: 23%;
+    margin-right: 25%;
+    width: 50%; 
+}
+
+#tittle, .subtittle, .post_tittle{
+    color: black;
+}
+
+.post_tittle{
+    font-size: 16px;
+    font-style: italic;
+    margin: 0;
+    margin-bottom: 15px;
+}
+
+.post{
+    background-color:antiquewhite;
+    padding: 15px;
+    border: 3px solid #000;
+    margin-bottom: 15px;
+}
+
+.post_content{
+    margin: 0;
+    margin-bottom: 15px;
+}
+
+
+
+
+
